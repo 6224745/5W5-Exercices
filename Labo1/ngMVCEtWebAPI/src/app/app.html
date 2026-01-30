@@ -1,0 +1,20 @@
+<main class="main">
+  <div>
+    <input type="text" name="username" [(ngModel)]="username">
+  </div>
+  <div>
+    <button (click)="register()">Register</button>
+    <button (click)="login()">Login</button>
+    <button (click)="logout()">Logout</button>
+  </div>
+  <div>
+    <button (click)="getPublicTest()">Test Publique</button>
+    <button (click)="getPrivateTest()">Test Privé</button>
+  </div>
+  <div>
+    <p>Résultat: {{resultat}}</p>
+  </div>
+</main>
+
+
+<router-outlet></router-outlet>

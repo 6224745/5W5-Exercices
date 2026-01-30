@@ -42,7 +42,7 @@ namespace WebAPI.Controllers
                 return StatusCode(StatusCodes.Status500InternalServerError, new { Error = identityResult.Errors });
             }
 
-            return Ok();
+            return Ok(new { Message = "Inscription réussie ! 🥳" });
         }
 
         [HttpPost]
@@ -90,8 +90,12 @@ namespace WebAPI.Controllers
 
         [HttpGet]
         [Authorize]
-        public ActionResult PrivateTest()
+        public async Task<ActionResult> PrivateTest()
         {
+            IdentityUser? user = await _userManager.FindByIdAsync(User.FindFirstValue(ClaimTypes.NameIdentifier)!);
+
+            if (user == null) return Unauthorized();
+
             return Ok(new string[] { "PrivatePomme", "PrivatePoire", "PrivateBanane" });
         }
     }
