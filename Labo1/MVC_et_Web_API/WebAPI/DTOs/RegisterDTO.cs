@@ -1,4 +1,4 @@
-﻿namespace WebAPI
+﻿namespace WebAPI.DTOs
 {
     public class RegisterDTO
     {

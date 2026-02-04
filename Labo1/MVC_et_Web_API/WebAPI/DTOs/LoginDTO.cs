@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace WebAPI
+namespace WebAPI.DTOs
 {
     public class LoginDTO
     {

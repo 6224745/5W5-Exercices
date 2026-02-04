@@ -14,6 +14,11 @@
   <div>
     <p>Résultat: {{resultat}}</p>
   </div>
+  <h4>Ajout de data</h4>
+  <div>
+    <input type="text" name="newTestDataName" [(ngModel)]="newTestDataName">
+    <button (click)="createTestData(newTestDataName)">Create Test Data</button>
+  </div>
 </main>
 
 

@@ -18,6 +18,7 @@ export class App {
 
   resultat : string[] = [];
   username : string = "";
+  newTestDataName : string = "";
 
   async getPublicTest(){
     let x = await lastValueFrom(this.http.get<string[]>("https://localhost:7119/api/Account/PublicTest"));
@@ -58,5 +59,12 @@ export class App {
   logout(){
     sessionStorage.removeItem("token");
     this.username = "";
+  }
+
+  async createTestData(name:string){
+    let testData = {
+      name: name
+    }
+    await lastValueFrom(this.http.post<any>("https://localhost:7119/api/TestData/CreateData", testData));
   }
 }
