@@ -1,0 +1,31 @@
+<form class="borderedZone">
+  <div *ngIf="!isLoggedIn()">
+    <div class="withMargin">
+      <input type="text" [(ngModel)]="account.username" name="username"/>
+    </div>
+    <button (click)="register()">Enregistrer</button>
+    <button (click)="login()">Login</button>
+  </div>
+  <div *ngIf="isLoggedIn()">
+    <div class="withMargin">
+      Bonjour <b>{{account.username}}!</b>
+    </div>
+    <button (click)="logout()">Logout</button>
+  </div>
+</form>
+
+<div class="withMargin">
+  <button (click)="publicCall()">Test Publique</button>
+  <button (click)="privateCall()">Test Privé</button>
+</div>
+<div style="padding-left: 12px;">
+  Résultat: {{result}}
+</div>
+
+<form class="borderedZone" *ngIf="isLoggedIn()">
+  <h4>Ajout de data</h4>
+  <div class="withMargin">
+    <input type="text" [(ngModel)]="newTestDataName" name="newTestDataName"/>
+  </div>
+  <button (click)="createTestData()">Ajouter</button>
+</form>
