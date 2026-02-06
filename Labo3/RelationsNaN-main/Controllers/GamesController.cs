@@ -156,6 +156,20 @@ namespace RelationsNaN.Controllers
             return RedirectToAction(nameof(Index));
         }
 
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> RemovePlatform(int id)
+        {
+            var game = await _context.Game.FindAsync(id);
+            if (game != null)
+            {
+                
+            }
+
+            await _context.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));
+        }
+
         private bool GameExists(int id)
         {
             return _context.Game.Any(e => e.Id == id);
