@@ -45,10 +45,13 @@ export class ChatComponent  {
     this.hubConnection.on('UsersList', (data) => {
       this.usersList = data;
     });
+    this.hubConnection.on('GetChannel', (channels) => {
+      this.channelsList = channels;
+    })
 
     // TODO: Écouter le message pour mettre à jour la liste de channels
-    this.hubConnection.on('CreateChannel', (channel) => {
-      this.channelsList = channel;
+    this.hubConnection.on('CreateChannel', (newchannel) => {
+      this.channelsList = newchannel;
     })
 
     this.hubConnection.on('NewMessage', (message) => {

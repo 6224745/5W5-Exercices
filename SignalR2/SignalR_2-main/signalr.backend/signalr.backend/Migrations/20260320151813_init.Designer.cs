@@ -12,7 +12,7 @@ using signalr.backend.Data;
 namespace signalr.backend.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20260313131000_init")]
+    [Migration("20260320151813_init")]
     partial class init
     {
         /// <inheritdoc />
