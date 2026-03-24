@@ -12,7 +12,7 @@
         public int NbConnectedUsers { get; private set; }
 
         public int MONEY_INCREMENT = 2;
-        public readonly int[] PIZZA_PRICES = new int[2] { 10, 12 };
+        public readonly int[] PIZZA_PRICES = [10, 12];
 
         // Le data pour les 2 types de pizza
         public int[] Money { get; private set; } = new int[2];
