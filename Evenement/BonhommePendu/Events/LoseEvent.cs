@@ -6,9 +6,11 @@ namespace BonhommePendu.Events
     public class LoseEvent : GameEvent
     {
         public override string EventType { get { return "Lose"; } }
-
+        public string LostWord { get; set; }
         // TODO: Compléter
         public LoseEvent(GameData gameData) {
+            LostWord = gameData.Word;
+            gameData.Lost = true;
         }
     }
 }

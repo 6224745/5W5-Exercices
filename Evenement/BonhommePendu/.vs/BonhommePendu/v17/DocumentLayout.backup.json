@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\6224745\\Desktop\\5W5-Exercices\\Evenement\\BonhommePendu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38F97AD7-4969-48BA-A59E-87C66B1C9573}|BonhommePendu.csproj|c:\\users\\6224745\\desktop\\5w5-exercices\\evenement\\bonhommependu\\events\\loseevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F97AD7-4969-48BA-A59E-87C66B1C9573}|BonhommePendu.csproj|solutionrelative:events\\loseevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F97AD7-4969-48BA-A59E-87C66B1C9573}|BonhommePendu.csproj|c:\\users\\6224745\\desktop\\5w5-exercices\\evenement\\bonhommependu\\models\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F97AD7-4969-48BA-A59E-87C66B1C9573}|BonhommePendu.csproj|solutionrelative:models\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F97AD7-4969-48BA-A59E-87C66B1C9573}|BonhommePendu.csproj|c:\\users\\6224745\\desktop\\5w5-exercices\\evenement\\bonhommependu\\events\\wrongguessevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F97AD7-4969-48BA-A59E-87C66B1C9573}|BonhommePendu.csproj|solutionrelative:events\\wrongguessevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F97AD7-4969-48BA-A59E-87C66B1C9573}|BonhommePendu.csproj|c:\\users\\6224745\\desktop\\5w5-exercices\\evenement\\bonhommependu\\events\\guessevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F97AD7-4969-48BA-A59E-87C66B1C9573}|BonhommePendu.csproj|solutionrelative:events\\guessevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F97AD7-4969-48BA-A59E-87C66B1C9573}|BonhommePendu.csproj|c:\\users\\6224745\\desktop\\5w5-exercices\\evenement\\bonhommependu\\events\\winevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F97AD7-4969-48BA-A59E-87C66B1C9573}|BonhommePendu.csproj|solutionrelative:events\\winevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F97AD7-4969-48BA-A59E-87C66B1C9573}|BonhommePendu.csproj|c:\\users\\6224745\\desktop\\5w5-exercices\\evenement\\bonhommependu\\events\\gameevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F97AD7-4969-48BA-A59E-87C66B1C9573}|BonhommePendu.csproj|solutionrelative:events\\gameevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F97AD7-4969-48BA-A59E-87C66B1C9573}|BonhommePendu.csproj|c:\\users\\6224745\\desktop\\5w5-exercices\\evenement\\bonhommependu\\events\\guessedletterevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F97AD7-4969-48BA-A59E-87C66B1C9573}|BonhommePendu.csproj|solutionrelative:events\\guessedletterevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F97AD7-4969-48BA-A59E-87C66B1C9573}|BonhommePendu.csproj|c:\\users\\6224745\\desktop\\5w5-exercices\\evenement\\bonhommependu\\services\\penduservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F97AD7-4969-48BA-A59E-87C66B1C9573}|BonhommePendu.csproj|solutionrelative:services\\penduservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F97AD7-4969-48BA-A59E-87C66B1C9573}|BonhommePendu.csproj|c:\\users\\6224745\\desktop\\5w5-exercices\\evenement\\bonhommependu\\hubs\\penduhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F97AD7-4969-48BA-A59E-87C66B1C9573}|BonhommePendu.csproj|solutionrelative:hubs\\penduhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WrongGuessEvent.cs",
+              "DocumentMoniker": "C:\\Users\\6224745\\Desktop\\5W5-Exercices\\Evenement\\BonhommePendu\\Events\\WrongGuessEvent.cs",
+              "RelativeDocumentMoniker": "Events\\WrongGuessEvent.cs",
+              "ToolTip": "C:\\Users\\6224745\\Desktop\\5W5-Exercices\\Evenement\\BonhommePendu\\Events\\WrongGuessEvent.cs",
+              "RelativeToolTip": "Events\\WrongGuessEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T15:48:13.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoseEvent.cs",
+              "DocumentMoniker": "C:\\Users\\6224745\\Desktop\\5W5-Exercices\\Evenement\\BonhommePendu\\Events\\LoseEvent.cs",
+              "RelativeDocumentMoniker": "Events\\LoseEvent.cs",
+              "ToolTip": "C:\\Users\\6224745\\Desktop\\5W5-Exercices\\Evenement\\BonhommePendu\\Events\\LoseEvent.cs",
+              "RelativeToolTip": "Events\\LoseEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T15:44:40.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameEvent.cs",
+              "DocumentMoniker": "C:\\Users\\6224745\\Desktop\\5W5-Exercices\\Evenement\\BonhommePendu\\Events\\GameEvent.cs",
+              "RelativeDocumentMoniker": "Events\\GameEvent.cs",
+              "ToolTip": "C:\\Users\\6224745\\Desktop\\5W5-Exercices\\Evenement\\BonhommePendu\\Events\\GameEvent.cs",
+              "RelativeToolTip": "Events\\GameEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T15:37:59.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WinEvent.cs",
+              "DocumentMoniker": "C:\\Users\\6224745\\Desktop\\5W5-Exercices\\Evenement\\BonhommePendu\\Events\\WinEvent.cs",
+              "RelativeDocumentMoniker": "Events\\WinEvent.cs",
+              "ToolTip": "C:\\Users\\6224745\\Desktop\\5W5-Exercices\\Evenement\\BonhommePendu\\Events\\WinEvent.cs",
+              "RelativeToolTip": "Events\\WinEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T15:21:22.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GuessedLetterEvent.cs",
+              "DocumentMoniker": "C:\\Users\\6224745\\Desktop\\5W5-Exercices\\Evenement\\BonhommePendu\\Events\\GuessedLetterEvent.cs",
+              "RelativeDocumentMoniker": "Events\\GuessedLetterEvent.cs",
+              "ToolTip": "C:\\Users\\6224745\\Desktop\\5W5-Exercices\\Evenement\\BonhommePendu\\Events\\GuessedLetterEvent.cs",
+              "RelativeToolTip": "Events\\GuessedLetterEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T14:43:53.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameData.cs",
+              "DocumentMoniker": "C:\\Users\\6224745\\Desktop\\5W5-Exercices\\Evenement\\BonhommePendu\\Models\\GameData.cs",
+              "RelativeDocumentMoniker": "Models\\GameData.cs",
+              "ToolTip": "C:\\Users\\6224745\\Desktop\\5W5-Exercices\\Evenement\\BonhommePendu\\Models\\GameData.cs",
+              "RelativeToolTip": "Models\\GameData.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T14:41:05.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GuessEvent.cs",
+              "DocumentMoniker": "C:\\Users\\6224745\\Desktop\\5W5-Exercices\\Evenement\\BonhommePendu\\Events\\GuessEvent.cs",
+              "RelativeDocumentMoniker": "Events\\GuessEvent.cs",
+              "ToolTip": "C:\\Users\\6224745\\Desktop\\5W5-Exercices\\Evenement\\BonhommePendu\\Events\\GuessEvent.cs",
+              "RelativeToolTip": "Events\\GuessEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T14:28:25.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PenduService.cs",
+              "DocumentMoniker": "C:\\Users\\6224745\\Desktop\\5W5-Exercices\\Evenement\\BonhommePendu\\Services\\PenduService.cs",
+              "RelativeDocumentMoniker": "Services\\PenduService.cs",
+              "ToolTip": "C:\\Users\\6224745\\Desktop\\5W5-Exercices\\Evenement\\BonhommePendu\\Services\\PenduService.cs",
+              "RelativeToolTip": "Services\\PenduService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T14:27:29.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PenduHub.cs",
+              "DocumentMoniker": "C:\\Users\\6224745\\Desktop\\5W5-Exercices\\Evenement\\BonhommePendu\\Hubs\\PenduHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\PenduHub.cs",
+              "ToolTip": "C:\\Users\\6224745\\Desktop\\5W5-Exercices\\Evenement\\BonhommePendu\\Hubs\\PenduHub.cs",
+              "RelativeToolTip": "Hubs\\PenduHub.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T14:11:01.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
